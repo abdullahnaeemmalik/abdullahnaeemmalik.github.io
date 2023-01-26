@@ -17,14 +17,14 @@ Education
 
 Work experience
 ======
-* Fall 2020 -- Present : Research Assistant
-  * Florida State University
-  * Teaching Advisor: Dr. Penelope Kirby
+* August 2020 -- Present : Teaching Assistant
+  * Florida State University. Teaching Advisor: Dr. Penelope Kirby
     * Spring 2023 : Grader for "Introduction to Advanced Mathematics" (Set Theory and logic course)
     * Fall 2022   : Calculus I Solo Instructor
     * Summer 2022 : Calculus I Solo Instructor
     * Spring 2022 : Lab Instructor
     * Fall 2021   : Grader for "Discrete Math" & Course Content creation for Pre-Calculus
+    * Summer 2021 : Lab Instructor
     * Spring 2021 : Lab Instructor
     * Fall 2020   : Grader for "Ordinary Differential Equations"
 
@@ -62,4 +62,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Mentoring Undergrad Ayotuntosimi Loye. Project: Simplicial Sets are Chu Spaces
+
