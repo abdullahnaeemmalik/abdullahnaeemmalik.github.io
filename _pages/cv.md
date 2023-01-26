@@ -17,10 +17,16 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020 -- Present : Research Assistant
+  * Florida State University
+  * Teaching Advisor: Dr. Penelope Kirby
+    * Spring 2023 : Grader for "Introduction to Advanced Mathematics" (Set Theory and logic course)
+    * Fall 2022   : Calculus I Solo Instructor
+    * Summer 2022 : Calculus I Solo Instructor
+    * Spring 2022 : Lab Instructor
+    * Fall 2021   : Grader for "Discrete Math" & Course Content creation for Pre-Calculus
+    * Spring 2021 : Lab Instructor
+    * Fall 2020   : Grader for "Ordinary Differential Equations"
 
 * Fall 2015: Research Assistant
   * Github University
