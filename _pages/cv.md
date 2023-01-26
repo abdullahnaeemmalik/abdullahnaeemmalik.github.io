@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.    in Mathematics, COMSATS Institute of Information Technology, Islamabad, 2012
+* M.Phil. in Pure Mathematics, Quaid-e-Azam University, Islamabad, 2016
+* Ph.D    in Pure Mathematics, Florida State University, 2024 (expected)
 
 Work experience
 ======
