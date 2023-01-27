@@ -36,10 +36,10 @@ Work experience
 Skills
 ======
 * Coding
-*   Python
-*   Mathematica
-*   LaTeX
-*   C++
+  *  Python
+  *  Mathematica
+  *  LaTeX
+  *  C++
 * Written Communication and Presentations
 * Microsoft Excel
 
