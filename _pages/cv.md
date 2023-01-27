@@ -35,12 +35,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding
+*   Python
+*   Mathematica
+*   LaTeX
+*   C++
+* Written Communication and Presentations
+* Microsoft Excel
 
 Publications
 ======
@@ -62,5 +63,5 @@ Teaching
   
 Service and leadership
 ======
-* Mentoring Undergrad Ayotuntosimi Loye. Project: Simplicial Sets are Chu Spaces
+* Currently mentoring an undergrad Ayotuntosimi Loye. Project: Simplicial Sets are Chu Spaces
 
