@@ -20,7 +20,7 @@ in the cavity. Also, a generalisation of the Deutsch-Jozsa algorithm has been
 discussed, which might pave way for a working model of a Quantum Computer.'
 date: 2012-02-01
 venue: 'COMSATS Institute of Information Technology'
-paperurl: 'http://abdullahnaeemmalik.github.io/files/Engineering%20the%20Deutsch-Jozsa%20Algorithm.pdf'
+paperurl: 'http://abdullahnaeemmalik.github.io/blob/master/files/Engineering the Deutsch-Jozsa Algorithm.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
