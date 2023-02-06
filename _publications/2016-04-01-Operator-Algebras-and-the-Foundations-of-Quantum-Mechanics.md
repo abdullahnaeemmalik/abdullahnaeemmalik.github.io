@@ -9,4 +9,4 @@ paperurl: 'http://abdullahnaeemmalik.github.io/files/Operator Algebras and the F
 citation: 'None'
 ---
 
-[Download paper here](http://abdullahnaeemmalik.github.io/files/Operator Algebras and the Foundations of Quantum Mechanics.pdf)
+[Download paper here](https://abdullahnaeemmalik.github.io/files/Operator%20Algebras%20and%20the%20Foundations%20of%20Quantum%20Mechanics.pdf)
