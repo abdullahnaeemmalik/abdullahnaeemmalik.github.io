@@ -15,10 +15,7 @@ Dirac's formalism.'
 date: 2016-04-01
 venue: 'Quaid-i-Azam University'
 paperurl: 'http://abdullahnaeemmalik.github.io/files/Operator Algebras and the Foundations of Quantum Mechanics.pdf'
+citation: 'None'
 ---
 
-
 [Download paper here](http://abdullahnaeemmalik.github.io/files/Operator Algebras and the Foundations of Quantum Mechanics.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
-
