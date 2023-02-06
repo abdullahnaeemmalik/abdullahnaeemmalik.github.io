@@ -7,7 +7,7 @@ Quantum Mechanics. In particular, we justify sharp observables but question
 the requirement of completeness of the inner product space and the
 underlying field. We view our mathematical framework as a dynamical theory
 but with a mysterious probabilistic interpretation instead of the otherway
-round. Whenever we speak of "Quantum\ Mechanics", we mean Non-relativistic
+round. Whenever we speak of Quantum Mechanics, we mean Non-relativistic
 Quantum Mechanics. To make things less messy, we assume associativity
 through-out. No attempt has been made to refer to QFT and statistical
 quantum mechanics and we use conventional mathematical symbols instead of
