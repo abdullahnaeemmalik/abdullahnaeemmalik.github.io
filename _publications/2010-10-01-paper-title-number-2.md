@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Operator Algebras and the Foundations of Quantum Mechanics.pdf"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2016-04-01-Operator-Algebras-and-the-Foundations-of-Quantum-Mechanics
+excerpt: 'The purpose of this thesis is to analyse the Hilbert Space requirement for Quantum Mechanics. In particular, we justify sharp observables but question the requirement of completeness of the inner product space and the underlying field. We view our mathematical framework as a dynamical theory but with a mysterious probabilistic interpretation instead of the otherway round. Whenever we speak of "Quantum Mechanics", we mean Non-relativistic Quantum Mechanics. To make things less messy, we assume associativity through-out. No attempt has been made to refer to QFT and statistical quantum mechanics and we use conventional
+mathematical symbols instead of Dirac's formalism.'
+date: 2016-04-01
+venue: 'Quaid-i-Azam University'
+paperurl: 'http://abdullahnaeemmalik.github.io/files/Operator Algebras and the Foundations of Quantum Mechanics.pdf'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+[Download paper here](http://abdullahnaeemmalik.github.io/files/Operator Algebras and the Foundations of Quantum Mechanics.pdf)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
