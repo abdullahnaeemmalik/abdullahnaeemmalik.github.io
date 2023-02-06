@@ -22,8 +22,8 @@ date: 2012-02-01
 venue: 'COMSATS Institute of Information Technology'
 paperurl: 'http://abdullahnaeemmalik.github.io/files/Engineering the Deutsch-Jozsa Algorithm.pdf'
 
-citation: 'Engineering-the-Deutsch-Jozsa-Algorithm'
 ---
+
 
 [Download paper here](http://abdullahnaeemmalik.github.io/files/Engineering%20the%20Deutsch-Jozsa%20Algorithm.pdf)
 
