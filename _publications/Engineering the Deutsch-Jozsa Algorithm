@@ -21,7 +21,8 @@ discussed, which might pave way for a working model of a Quantum Computer.'
 date: 2012-02-01
 venue: 'COMSATS Institute of Information Technology'
 paperurl: 'http://abdullahnaeemmalik.github.io/files/Engineering the Deutsch-Jozsa Algorithm.pdf'
-citation: 'BiBTeX: @phdthesis{malik2012engineering,%
+
+BiBTeX: '@phdthesis{malik2012engineering,%
   title={Engineering Deutsch-Jozsa Algorithm in Cavity QED via Bragg Regime},%
   author={Malik, Abdullah Naeem},%
   year={2012},%
