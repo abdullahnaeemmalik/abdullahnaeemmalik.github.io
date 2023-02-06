@@ -12,7 +12,7 @@ paperurl: 'http://abdullahnaeemmalik.github.io/files/Operator Algebras and the F
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 
-#Abstract
+##Abstract
 The purpose of this thesis is to analyse the Hilbert Space requirement for
 Quantum Mechanics. In particular, we justify sharp observables but question
 the requirement of completeness of the inner product space and the
