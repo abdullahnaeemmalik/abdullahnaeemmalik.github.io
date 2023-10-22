@@ -2,7 +2,7 @@
 title: "Notes for Functional Analysis"
 collection: notes
 type: "Undergraduate course"
-permalink: /teaching/kreyzsig-functional-analysis
+permalink: /notes/kreyzsig-functional-analysis
 date: 2014-01-01
 ---
 
