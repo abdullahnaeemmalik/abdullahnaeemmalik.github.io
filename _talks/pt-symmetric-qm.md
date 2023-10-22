@@ -8,4 +8,4 @@ date: 2018-04-23
 location: "Delaware State University"
 ---
 
-Slides [here](/files/FPT presentation.pdf). Presentation of two papers as a final project for a course on Functional Analysis
+Slides [here](/files/PTSymmetric QM.pdf). Presentation of two papers as a final project for a course on Functional Analysis
