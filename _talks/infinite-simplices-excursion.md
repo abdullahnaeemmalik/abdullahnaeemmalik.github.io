@@ -8,7 +8,7 @@ date: 2022-10-19
 location: "Florida State University"
 ---
 
-[Slides here](/files/Simplices-excursion.pdf)
+[Slides here](/files/Simplicies-excursion.pdf)
 
 Public talk. 
 
