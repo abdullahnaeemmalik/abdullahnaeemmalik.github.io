@@ -2,10 +2,10 @@
 title: "Limits and Randomness of Reason"
 collection: talks
 type: "Seminar Talk"
-permalink: /talks/2015-01-01-/talks/limits-and-randomness-deReason
+permalink: /talks/2015-01-01-/talks/limits-and-randomness-Reason
 venue: "Islamabad"
-date: 2015-01-01
-location: "COMSATS Institute of Information Technology, Virtual Campus"
+date: 2011-08-17
+location: "COMSATS Institute of Information Technology, Islamabad"
 ---
 
 
