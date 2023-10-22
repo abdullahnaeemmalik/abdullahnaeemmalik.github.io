@@ -8,6 +8,4 @@ date: 2014-01-01
 location: "COMSATS Institute of Information Technology, Virtual Campus"
 ---
 
-[More information here](/files/the-counter-intuitive-applications-of-harmonic-series)
-
 Different proofs of the divergence of harmonic series are presented, along with some applications
