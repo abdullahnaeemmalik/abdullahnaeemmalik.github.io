@@ -4,10 +4,10 @@ collection: talks
 type: "Seminar Talk"
 permalink: /talks/2014-01-01-/talks/fixed-point-theorems-Applications
 venue: "Islamabad"
-date: 2014-01-01
+date: 2014-08-17
 location: "COMSATS Institute of Information Technology, Virtual Campus"
 ---
 
-[More information here](/files/fixed-point-theory)
+[Slides of the talk here](/files/FPT presentation.pdf)
 
 No decription
