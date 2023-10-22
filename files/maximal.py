@@ -8,8 +8,7 @@ import dgl
 import torch
 
 def PosetΔ(d):
-    """I just found out that the same can be accomplished by np.arange(d+1)..
-    Anyway, this function takes in an integer as input and produces the
+    """This function takes in an integer as input and produces the
     1D np array [0,1,...,d]
     """
     return  np.asarray([index for index in range(0, d+1)])
