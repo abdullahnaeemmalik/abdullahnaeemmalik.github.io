@@ -8,6 +8,4 @@ date: 2013-11-22
 location: "COMSATS Institute of Information Technology, Virtual Campus"
 ---
 
-[More information here](/files/why-intuitionistic-logic-is-deconstructive)
-
-See draft of talk
+See draft of talk [here](/files/Talk intuitionistic vs classical.pdf)
