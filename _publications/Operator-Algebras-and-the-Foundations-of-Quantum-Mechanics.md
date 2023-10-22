@@ -6,4 +6,5 @@ excerpt: "The purpose of this thesis is to analyse the Hilbert Space requirement
 date: 2016-04-01
 venue: 'Quaid-i-Azam University'
 paperurl: 'http://abdullahnaeemmalik.github.io/files/Operator Algebras and the Foundations of Quantum Mechanics.pdf'
+citation: 'Naeem Malik, Abdullah. Operator Algebras and Foundations of Quantum Mechanics. Diss. Quaid-e-Azam University, Islamabad, 2016'
 ---
