@@ -6,4 +6,5 @@ excerpt: "We exhibit a non-constructive proof in which anti-automorphisms are no
 date: 2016-02-25
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/1603.08498.pdf'
+citation: 'Naeem Malik, A. Non-isometric, involutive antiautomorphisms. arXiv:1603.08498 [math.RA], 2016'
 ---
