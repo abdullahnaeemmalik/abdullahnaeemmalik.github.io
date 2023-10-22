@@ -1,7 +1,7 @@
 ---
 title: "Engineering Deutsch-Jozsa Algorithm in Cavity QED via Bragg Regime"
 collection: publications
-permalink: '/files/Engineering the Deutsch-Jozsa Algorithm.pdf'
+permalink: '/publications/Engineering the Deutsch-Jozsa Algorithm.pdf'
 excerpt: 'The theory of quantum mechanics, developed as a limiting case to classical mechanics, notwithstanding its interpretive difficulties, has with it the elegance
 for paving way to a variety of applications. One such application is the implementation of a working Quantum Computer. The push one receives for using
 quantum principles as a measure of information and execution of algorithms
