@@ -2,7 +2,7 @@
 title: "Hilbert’s Sixth Problem and Topos Theory"
 collection: talks
 type: "Graduate Student Seminar Talk"
-permalink: /talks/2019-03-12-/talks/Hilberts Sixth Problem
+permalink: /talks/Hilberts Sixth Problem
 venue: "LOV201"
 date: 2019-03-12
 location: "Florida State University"
