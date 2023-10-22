@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Abdullah Malik"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD Candidate for Pure Math"
   location         : "Tallahassee, FL"
   employer         : "Florida State University"
