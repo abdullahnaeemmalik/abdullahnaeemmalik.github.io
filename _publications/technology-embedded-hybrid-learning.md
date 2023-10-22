@@ -6,5 +6,5 @@ excerpt: 'This preprint is a culmination of the proposal that marked the introdu
 date: 2018-03-27
 venue: 'Preprints.org'
 paperurl: 'https://www.preprints.org/manuscript/201803.0229/v2'
-citation: 'Behzad, M.; Adnan, N.; Naeem Malik, A.; Merchant, S.A. Technology-Embedded Hybrid Learning. Preprints 2018, 2018030229. https://doi.org/10.20944/preprints201803.0229.v2'
+citation: 'Behzad, M.; Adnan, N.; Malik, A.N..; Merchant, S.A. Technology-Embedded Hybrid Learning. Preprints 2018, 2018030229. https://doi.org/10.20944/preprints201803.0229.v2'
 ---
