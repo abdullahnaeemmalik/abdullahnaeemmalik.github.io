@@ -1,5 +1,5 @@
 ---
-title: "Orthomodularity and the incompatibility of Relativity and Quantum mechanics"
+title: "Non-isometric, involutive antiautomorphisms"
 collection: publications
 permalink: '/publications/Non-isometric-involutive-antiautomorphisms'
 excerpt: "We exhibit a non-constructive proof in which anti-automorphisms are not valuation-preserving and hence non-isometric"
