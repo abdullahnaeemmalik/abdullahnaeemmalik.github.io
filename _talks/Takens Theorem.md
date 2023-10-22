@@ -1,5 +1,5 @@
 ---
-title: "The variational bicomplex and Takens’s theorem"
+title: "The variational bicomplex and Takens’ theorem"
 collection: talks
 type: "Candidacy Exam Talk"
 permalink: /talks/2020-04-22-/talks/Takens Theorem
