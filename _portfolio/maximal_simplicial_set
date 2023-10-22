@@ -1,6 +1,6 @@
 ---
-title: "Constructing a simplicial set as a graph, given vertices"
-excerpt: "Jupyter notebook to construct simplicial sets using either dimension or a set of vertices"
+title: "Constructing a simplicial set"
+excerpt: "Python scripts to construct various simplicial sets in different circumstances"
 collection: portfolio
 ---
 
