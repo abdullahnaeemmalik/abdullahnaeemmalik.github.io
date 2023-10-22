@@ -8,6 +8,6 @@ date: 2015-12-03
 location: "Quaid-e-Azam University"
 ---
 
-[More information here](/files/mathematical-foundations-of-qauntum-mechanics-qau)
+[Slides here](/files/Quantum Mechanics Framework.pdf)
 
 We work our way by physical intuition to the popular axioms of Quantum Mechanics as defined by von Neumann. Directions come by appeal to the Double Slit Experiment and by using notions of functional analysis, as defined in E. Kreyszig, Introductory Functional Analysis with Applications, John Wiley &amp; Sons, 1978
