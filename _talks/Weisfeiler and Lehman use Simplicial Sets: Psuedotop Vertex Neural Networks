@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Weisfeiler and Lehman use Simplicial Sets: Psuedotop Vertex Neural Networks"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+type: "Machine Learning Seminar Talk"
+permalink: /talks/ptvnn
+venue: "LOV103"
+date: 2023-10-27
+location: "Florida State University, Tallahassee, FL"
 ---
 
 [More information here](http://exampleurl.com)
