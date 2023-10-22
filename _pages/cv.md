@@ -29,7 +29,6 @@ Work experience
     * Summer 2021 : Lab Instructor
     * Spring 2021 : Lab Instructor
     * Fall 2020   : Grader for "Ordinary Differential Equations"
-    * Fall 2015: Research Assistant
 * August 2017 -- December 2017: In Charge
   * Office of Hybrid Learning, COMSATS Institute of Information Technology, Virtual Campus. Supervisor: Dr. Sajjad A. Madani
     * Lead a team of Content Experts, an Instructional Design Professional, Computer Graphics experts, IT Specialists and Supplementary Instruction Leaders.
@@ -45,13 +44,14 @@ Work experience
       * Theorem of Maria Pia Soler, Non-exhaustive Properties of Multiplicative Groups of Matrices, Axiom of Choice: Equivalents and Implications, Current trends in Quantum Logic, Summing the Divergent, Language of the Universe: The Mathematics of Thermodynamics, A Comparison of Set Theories, Physics by SU(2), Automorphisms of General Linear Group, An Overview of Intuitionistic Logic, Extensions of Real Numbers, Constructive Calculus
     * Trained as Master Trainer in Pakistan Higher Education Commission’s 29th Master Trainers Faculty Professional Development Program
 * October 2012 -- November 2012: Subeditor (Intern)
-  *   Chiefly appointed as subeditor for PCST’s journal _Science, Technology and Development_
-  *   Verification of data in Directory of Productive Scientists of Pakistan 2012
-  *   Organised opening ceremony for Science and Innovation Policy, Pakistan, 2012
+  * Pakistan Council for Science and Technology. Supervisor: Dr. Saima Nasir
+    *   Chiefly appointed as subeditor for PCST’s journal _Science, Technology and Development_
+    *   Verification of data in Directory of Productive Scientists of Pakistan 2012
+    *   Organised opening ceremony for Science and Innovation Policy, Pakistan, 2012
 * March 2011 -- September 2012: Subeditor
   * UTrade (Pvt.) Ltd. Supervisor: Shaista Asif
     * Subeditor for trade magazine _UTrade_
-    * Responsible for writing assignments to final print
+    * Responsible for all magazine-related gamut, from writing assignments to final print
 * December 2009 -- June 2012: Teaching Assistant
   * COMSATS Institute of Information Technology, Islamabad. Supervisor: Saadia Aziz
     * TA for _Introduction to Programming_ (Language: C++) 
@@ -69,12 +69,13 @@ Skills
   
 Awards and Honors
 ======
-* Outstanding Instructor Award for my Fall 2022
+* Outstanding Instructor Award (Fall 2022)
 * Dwight B Goodner Fellowship recepient (Spring 2023)
 * Fulbright Fellowship for PhD (2017 cohort)
 * MPhil Merit Scholarship
 * Recepient of Prime Minister's Laptop Scheme (Fall 2014)
 * Best Teacher Award (Fall 2014, Spring 2014, Spring 2016)
+* Pakistan Atomic Energy Commission Talent Scholarship (Spring 08 -- Spring 12)
 
 Publications
 ======
