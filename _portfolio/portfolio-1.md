@@ -4,4 +4,4 @@ excerpt: "Jupyter notebook for the model"
 collection: portfolio
 ---
 
-The notebook may be found (here)[]
+The notebook may be found (here)[/files/pTV.ipynb]
