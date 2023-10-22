@@ -9,4 +9,4 @@ location: "COMSATS Institute of Information Technology, Virtual Campus"
 ---
 
 
-The works of Kurt Godel, Alan Turing and Gregory Chaitin are summarised. I gave this talk as an undergrad in my alma mater.
+The works of Kurt Godel, Alan Turing and Gregory Chaitin are summarised. I gave this talk as an undergrad in my alma mater. See [draft](/files/Talk Limits and Randomness of Reason.pdf) of the talk
