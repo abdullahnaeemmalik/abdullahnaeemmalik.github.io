@@ -6,4 +6,4 @@ permalink: /notes/kreyzsig-functional-analysis
 date: 2014-01-01
 ---
 
-See notes [here](\files\functional_analysis_notes.pdf)
+See notes [here](/files/Functional_analysis_notes.pdf). Other related Banach Algebra notes [here](/files/Banach Algebra.pdf).
