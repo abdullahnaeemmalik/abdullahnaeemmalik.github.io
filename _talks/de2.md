@@ -8,6 +8,4 @@ date: 2014-08-24
 location: "COMSATS Institute of Information Technology, Virtual Campus"
 ---
 
-[Slides of the presentation here](/files/1,2,.pdf)
-
-A public talk about uncountability
+Slides [here](/files/1,2,.pdf). This presentation was a public talk about the countable and uncountable.
