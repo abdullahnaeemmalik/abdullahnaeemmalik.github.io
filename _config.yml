@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Abdullah Malik"
-  avatar           : "/images/20231020_234347.jpg"
+  avatar           : "files/20231020_234347.jpg"
   bio              : "PhD Candidate for Pure Math"
   location         : "Tallahassee, FL"
   employer         : "Florida State University"
@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  notes:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _notes
   - scope:
       path: ""
-      type: teaching
+      type: notes
     values:
       layout: single
       author_profile: true
