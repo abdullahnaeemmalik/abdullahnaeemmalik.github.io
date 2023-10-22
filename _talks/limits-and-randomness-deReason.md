@@ -8,6 +8,5 @@ date: 2015-01-01
 location: "COMSATS Institute of Information Technology, Virtual Campus"
 ---
 
-[More information here](/files/limits-and-randomness-of-reason)
 
 The works of Kurt Godel, Alan Turing and Gregory Chaitin are summarised.
