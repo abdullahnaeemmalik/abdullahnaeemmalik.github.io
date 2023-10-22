@@ -2,7 +2,7 @@
 title: "Mathematics and the formalism of Quantum Mechanics"
 collection: talks
 type: "Seminar Talk"
-permalink: /talks/2015-12-03-/talks/mathematics-and-the-formalism-of-quantum-Mechanics
+permalink: /talks/2015-12-09-/talks/mathematics-and-the-formalism-of-quantum-Mechanics
 venue: "Islamabad"
 date: 2015-12-03
 location: "Quaid-e-Azam University"
