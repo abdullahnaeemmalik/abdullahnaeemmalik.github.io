@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate for Pure Math at Florida State University, working on applied category theory and machine learning. My supervisor is Dr. Tyler Foster. I'm interested in the foundations of math and physics, and I hope to use these fundamentals to advance science and society.
+I'm a PhD candidate for Pure Math at Florida State University, working on applied category theory and machine learning. My supervisor is Dr. Tyler Foster. What got me into math was the what makes us human and how we're positioned in the world -- how on earth did we come up with mere formal mathematical symbols to mean so much?! My primary research interests are in the foundations of math and physics, which evolved into dabbling with quantum computing, foundations of quantum mechanics, and machine learning. 
+
+I also don't want to build an ivory tower of questions and answers, only. I imagine they might be socially awkward, so I hope to use these fundamentals to advance science and society. My guiding manifesto comes from the Azimuth Project. 
