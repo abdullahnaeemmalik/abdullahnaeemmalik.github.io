@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S.    in Mathematics, COMSATS Institute of Information Technology, Islamabad, 2012
-* M.Phil. in Pure Mathematics, Quaid-e-Azam University, Islamabad, 2016
-* Ph.D    in Pure Mathematics, Florida State University, 2024 (expected)
+* Ph.D in Pure Mathematics, Florida State University, 2024 (expected)
+* M.Phil in Pure Mathematics, Quaid-e-Azam University, Islamabad, 2016
+* B.S. in Mathematics, COMSATS Institute of Information Technology, Islamabad, 2012
 
 Work experience
 ======
