@@ -91,7 +91,8 @@ Talks
   
 Service and leadership
 ======
-* Currently mentoring an undergrad Ayotuntosimi Loye. Project: Simplicial Sets are Chu Spaces
+* Mentored an undergrad Ayotuntosimi Loye. Project: Simplicial Sets are Chu Spaces
+* Started reading group on Applied Category Theory.
 * Gardening, The Spring Gardens, Spring 2018 @ Fulbright Enrichment Seminar
 * Math Fun Day @ FSU, January 2019, January 2020
 * Logistics Support for Research Sharing Luncheon @ Honors, Scholars Fellows Society, Fall 2019
