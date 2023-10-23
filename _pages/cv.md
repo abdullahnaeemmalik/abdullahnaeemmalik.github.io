@@ -37,7 +37,7 @@ Work experience
     * Oversaw refinement of courseware
     * Analyzed existing practices, and gauged them against successful ones.
 * March 2013 -- August 2017: Research Associate
-  * COMSATS Institute of Information Technology, Virtual Campus. Supervisor: Dr. Bilal Ahmed
+  * COMSATS Institute of Information Technology, Virtual Campus. Supervisor: Dr. Bilal Zaka
     * Moderated the following math courses:
       * Analytical Number Theory, Measure Theory, Operations Research, Introduction to Hilbert Spaces, Functional Analysis, Business Mathematics, Partial Differential Equations, Mathematical Statistics, Business Mathematics and Statistics, Statistical Inference, Algebra, Real Analysis
     * MSc Math undergraduate projects supervised:
