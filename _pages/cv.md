@@ -105,4 +105,4 @@ Interests
 
 Get to know me!
 ======
-A [small](https://fellowssociety.fsu.edu/meet-fellows/fellows-society-current-graduate-fellow-abdullah-malik) interview. [Another](https://ogfa.fsu.edu/graduate/abdullah-malik) quick interview
+A [small](https://fellowssociety.fsu.edu/meet-fellows/fellows-society-current-graduate-fellow-abdullah-malik) interview. [Another](https://ogfa.fsu.edu/graduate/abdullah-malik) quick interview.
