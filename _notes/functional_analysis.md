@@ -1,5 +1,5 @@
 ---
-title: "Notes for Functional Analysis"
+title: "Introductory Functional Analysis"
 collection: notes
 type: "Undergraduate course"
 permalink: /notes/kreyzsig-functional-analysis
