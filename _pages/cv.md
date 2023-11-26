@@ -52,7 +52,7 @@ Work experience
   * UTrade (Pvt.) Ltd. Supervisor: Shaista Asif
     * Subeditor for trade magazine _UTrade_
     * Responsible for all magazine-related gamut, from writing assignments to final print
-* December 2009 -- June 2012: Teaching Assistant
+* December 2009 -- June 2010: Teaching Assistant
   * COMSATS Institute of Information Technology, Islamabad. Supervisor: Saadia Aziz
     * TA for _Introduction to Programming_ (Language: C++) 
 * April 2009 -- February 2012: Chief Editor
