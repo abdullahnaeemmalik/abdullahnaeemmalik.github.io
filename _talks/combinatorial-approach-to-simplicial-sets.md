@@ -4,7 +4,7 @@ collection: talks
 type: "Topology Seminar Talk"
 permalink: /talks/2020-10-11-/talks/combinatorial-approach-to-simplicial-sets
 venue: "LOV103"
-date: 2020-10-11
+date: 2022-10-11
 location: "Florida State University"
 ---
 
