@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A printable version of my CV may be found [here](http://abdullahnaeemmalik.github.io/files/cv.pdf)
+
 Education
 ======
 * Ph.D in Pure Mathematics, Florida State University, 2024 (expected)
