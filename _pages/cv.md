@@ -21,6 +21,7 @@ Work experience
 ======
 * August 2020 -- Present : Teaching Assistant
   * Florida State University. Teaching Advisor: Dr. Penelope Kirby
+    * Spring 2024 : Calculus III Solo Instructor 
     * Fall 2023   : Calculus III Solo Instructor
     * Summer 2023 : Calculus II Solo Instructor 
     * Spring 2023 : Grader for "Introduction to Advanced Mathematics" (Set Theory and logic course)
