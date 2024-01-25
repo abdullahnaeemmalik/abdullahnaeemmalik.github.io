@@ -14,8 +14,14 @@ A printable version of my CV may be found [here](http://abdullahnaeemmalik.githu
 Education
 ======
 * Ph.D in Pure Mathematics, Florida State University, 2024 (expected)
+  * Thesis title: Simplicial Methods in Graph Machine Learning
+  * Advisor: Dr. Tyler Foster
 * M.Phil in Pure Mathematics, Quaid-e-Azam University, Islamabad, 2016
+  * Thesis title: Operator Algebras the Foundations of Quantum Mechnaics
+  * Advisor: Dr. Tayyab Kamran
 * B.S. in Mathematics, COMSATS Institute of Information Technology, Islamabad, 2012
+  * Thesis title: Engineering Deutsch-Jozsa Algorithm in Cavity QED via Bragg Regime
+  * Advisor: Dr. Tasawar Abbas
 
 Work experience
 ======
