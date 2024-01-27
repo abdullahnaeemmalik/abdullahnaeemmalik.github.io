@@ -1,18 +1,19 @@
 class ZeroSimplicialSet:
-    def __init__(self, name, point):
+    def __init__(self, point):
         self.point = point
-        self.name = [self.point]
 
     def simplicialset(self, num):
         if num == 0:
-            return(self.name)
-        X=self.name
+            return([self.name])
+        X=[self.point]
         for i in range(num):
             X = X + [self.point]
         return(X)
 
-    def facemap(self, num):
-        return f"d({self.simplicialset(num)}) = {self.simplicialset(num-1)}"
+    def facemap(self, level):
+        """prints out face map of the given level"""
+        return f"d({self.simplicialset(level)}) = {self.simplicialset(level-1)}"
 
-    def degeneracymap(self, num):
-        return f"s({self.simplicialset(num)}) = {self.simplicialset(num+1)}"
+    def degeneracymap(self, level):
+        """prints out degeneracy map of the given level"""
+        return f"s({self.simplicialset(level)}) = {self.simplicialset(level+1)}"
