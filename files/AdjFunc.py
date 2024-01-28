@@ -48,17 +48,13 @@ class AdjFunctor():
                         l_ndeg = False
                         #check if u_simplex is nondegenerate
                         if len(u_simplex) != len(set(u_simplex)):
-                            #self.adj_graph.add_nodes(u_node, ntype='degenerate')
                             u_deg = True
                         else:
-                            #self.adj_graph.add_nodes(u_node, ntype='non-degenerate')
                             u_ndeg = True
                         #check if l_simplex i nondegenerate
                         if len(l_simplex) == len(set(l_simplex)):
                             l_ndeg = True
-                            #self.adj_graph.add_nodes(l_node, ntype='non-degenerate')
                         else:
-                            #self.adj_graph.add_nodes(l_node, ntype='degenerate')
                             l_deg = True
                         if u_deg:
                             if l_deg:
@@ -70,11 +66,3 @@ class AdjFunctor():
                         if u_ndeg:
                             if l_ndeg:
                                 self.adj_graph.add_edges(u_node,l_node, etype=('non-degenerate','d','non-degenerate'))
-            
-delta = {0:[[0],[1],[2]],1:[[0,1],[0,2],[1,2]],2:[[0,1,2]]}
-expansion=KanofDelta(delta)
-expansion.universal_completion()
-graph = AdjFunctor(expansion.simplicial_set)
-graph.fill_edges()
-print(graph.adj_graph_node_dict)
-print(graph.adj_graph.edges(etype=('non-degenerate','s','degenerate')))
