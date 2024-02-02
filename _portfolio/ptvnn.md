@@ -1,6 +1,6 @@
 ---
 title: "PseudoTop Vertex Neural Network"
-excerpt: "Jupyter notebook for the model"
+excerpt: "GNN that message passes features of pseudotop vertices, after a refinement"
 collection: portfolio
 ---
 
