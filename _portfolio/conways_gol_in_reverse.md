@@ -1,5 +1,5 @@
 ---
-title: "Conways Game of Life in Reverse"
+title: "Conway's Game of Life in Reverse"
 excerpt: "Jupyter notebook to find initial configurationf of a given evolution of a _Game of Life_"
 collection: portfolio
 ---
