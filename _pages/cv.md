@@ -33,7 +33,7 @@ Work experience
     * Spring 2023 : Grader for "Introduction to Advanced Mathematics" (Set Theory and logic course)
     * Fall 2022   : Calculus I Solo Instructor
     * Summer 2022 : Calculus I Solo Instructor
-    * Spring 2022 : Lab conductor
+    * Spring 2022 : Lab Instructor
     * Fall 2021   : Grader for "Discrete Math" & Course Content creation for Pre-Calculus
     * Summer 2021 : Lab Instructor
     * Spring 2021 : Lab Instructor
