@@ -8,4 +8,4 @@ date: 2012-08-04
 location: "Quaid-e-Azam University, Islamabad"
 ---
 
-[Webpage](https://qau.edu.pk/international-conference-on-nano-science-and-technology-begins/) of the conference. I presented my undergrad thesis.
+[Webpage](https://qau.edu.pk/international-conference-on-nano-science-and-technology-begins/) of the conference. I presented my undergrad thesis. Certificate of participation [here](/files/qau-conf-nano.pdf).
