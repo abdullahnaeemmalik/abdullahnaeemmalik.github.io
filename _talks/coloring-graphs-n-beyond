@@ -8,7 +8,6 @@ date: 2024-04-15
 location: "Haverford College"
 ---
 
-[Poster](https://www.haverford.edu/sites/default/files/Department/Math/Math-Colloq_for-3_15_24_Abdullah_Malik.pdf)
-[Slides](/files/haverford-coll.pdf)
+[Poster](https://www.haverford.edu/sites/default/files/Department/Math/Math-Colloq_for-3_15_24_Abdullah_Malik.pdf) for the colloquium. Slides of the presentation [here](/files/haverford-coll.pdf)
 
 Graph coloring procedures are widely used techniques to create and isolate different partitions of a graph. One such powerful procedure that can test when two graphs are not isomorphic is called the WiesfelerLeman (WL) Test. Recently, it was shown that the differentiating power of this test is equivalent to the expressivity of a graph neural network (GNN), allowing the WL test to serve as a blueprint for any generic GNN. Therefore, tests more powerful than the WL have been used to design neural networks that train on graph-based data that exhibit better expressivity than their "vanilla" counterparts. In this talk, we survey a few of these coloring procedures, before talking about a similar proposal of ours that involves simplicial sets.
