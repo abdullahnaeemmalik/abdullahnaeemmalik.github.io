@@ -8,4 +8,4 @@ date: 2017-03-27
 location: "Islamabad"
 ---
 
-Invited speaker. [Website](https://www.iiu.edu.pk/?page_id=24796)
+Invited speaker. [Website](https://www.iiu.edu.pk/?page_id=24796) of the conference. Slides of presentation [here](/files/iiui.pdf).
