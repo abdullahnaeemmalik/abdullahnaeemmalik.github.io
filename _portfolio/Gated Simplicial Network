@@ -1,7 +1,7 @@
 ---
-title: "Gated Simplicial Network"
-excerpt: "Class for forward pass of the GSN"
+title: CinchNET"
+excerpt: "Class for forward pass of the CinchNET"
 collection: portfolio
 ---
 
-After applying the Adj functor to a directed graph, one produces a multipartite graph, on which we can message pass using the simplicial message passing network. [This](/files/GSN.py) Python file implements the forward pass of the GSN.
+After applying the Adj functor to a directed graph, one produces a multipartite graph, on which we can message pass using the simplicial message passing network. [This](/files/GSN.py) Python file implements the forward pass of the CinchNET.
