@@ -1,5 +1,5 @@
 ---
-title: "Bottleneck Simplicial Neural Network"
+title: "CinchNET"
 excerpt: "GNN that message passes features within a simplex, essentially bottlenecking it within a simplex"
 collection: portfolio
 ---
