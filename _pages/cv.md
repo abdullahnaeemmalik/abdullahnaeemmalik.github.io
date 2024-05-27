@@ -13,19 +13,24 @@ A printable version of my CV may be found [here](http://abdullahnaeemmalik.githu
 
 Education
 ======
-* Ph.D in Pure Mathematics, Florida State University, 2024 (expected)
+* Ph.D in Pure Mathematics, Florida State University, 2024
   * Thesis title: Simplicial Methods in Graph Machine Learning
   * Advisor: Dr. Tyler Foster
+  * CGPA: 3.63
 * M.Phil in Pure Mathematics, Quaid-e-Azam University, Islamabad, 2016
   * Thesis title: Operator Algebras the Foundations of Quantum Mechnaics
   * Advisor: Dr. Tayyab Kamran
+  * CGPA: 3.80
 * B.S. in Mathematics, COMSATS Institute of Information Technology, Islamabad, 2012
   * Thesis title: Engineering Deutsch-Jozsa Algorithm in Cavity QED via Bragg Regime
   * Advisor: Dr. Tasawar Abbas
+  * CGPA: 3.28
 
 Work experience
 ======
-* August 2020 -- Present : Teaching Assistant
+* May 2024 -- August 2024: Adjunct Faculty
+  * Teaching Calculus II
+* August 2020 -- May 2024 : Teaching Assistant
   * Florida State University. Teaching Advisor: Dr. Penelope Kirby
     * Spring 2024 : Calculus III Solo Instructor 
     * Fall 2023   : Calculus III Solo Instructor
