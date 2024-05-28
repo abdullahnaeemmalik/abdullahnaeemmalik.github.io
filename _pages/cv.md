@@ -45,11 +45,11 @@ Work experience
     * Fall 2020   : Grader for "Ordinary Differential Equations"
 * August 2017 -- December 2017: In Charge
   * Office of Hybrid Learning, COMSATS Institute of Information Technology, Virtual Campus. Supervisor: Dr. Sajjad A. Madani
-    * Lead a team of Content Experts, an Instructional Design Professional, Computer Graphics experts, IT Specialists and Supplementary Instruction Leaders.
-    * Responsible for making arrangements for faculty development
-    * Responsible for identifying gaps in student ICT literacy and making appropriate recommendations.
-    * Oversaw refinement of courseware
-    * Analyzed existing practices, and gauged them against successful ones.
+    * Led a multidisciplinary team of Content Experts, Instructional Designers, Computer Graphics Specialists, IT Professionals, and Supplementary Instruction Leaders, ensuring smooth processing and successful delivery of projects.
+    * Responsible for organizing and coordinating faculty development programs.
+    * Identified gaps in student ICT literacy and provided appropriate recommendations for improvement
+    * Oversaw the refinement of courseware
+    * Analyzed existing practices and benchmarked them against successful standards.
 * March 2013 -- August 2017: Research Associate
   * COMSATS Institute of Information Technology, Virtual Campus. Supervisor: Dr. Bilal Zaka
     * Moderated the following math courses:
