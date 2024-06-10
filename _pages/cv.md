@@ -45,11 +45,11 @@ Work experience
     * Fall 2020   : Grader for "Ordinary Differential Equations"
 * August 2017 -- December 2017: In Charge
   * Office of Hybrid Learning, COMSATS Institute of Information Technology, Virtual Campus. Supervisor: Dr. Sajjad A. Madani
-    * Led a multidisciplinary team of Content Experts, Instructional Designers, Computer Graphics Specialists, IT Professionals, and Supplementary Instruction Leaders, ensuring smooth processing and successful delivery of projects.
-    * Responsible for organizing and coordinating faculty development programs.
+    * Conceptualized and implemented a proposal for a policy framework and educational model on 13 degree programs
+    * Piloted the transition of 2 courses from face-to-face to hybrid for 16,500 students, that shaved off 3% of total expenses
+    * Led a team of 15 Content Experts, 5 Instructional Designers, 3 Animation Creators, 2 Video Editors and 4 Web Developers, ensuring successful and smooth generation, processing, editing and deployment of academic content
+    * Responsible for organizing and coordinating faculty development programs
     * Identified gaps in student ICT literacy and provided appropriate recommendations for improvement
-    * Oversaw the refinement of courseware
-    * Analyzed existing practices and benchmarked them against successful standards.
 * March 2013 -- August 2017: Research Associate
   * COMSATS Institute of Information Technology, Virtual Campus. Supervisor: Dr. Bilal Zaka
     * Moderated the following math courses:
@@ -64,11 +64,13 @@ Work experience
     *   Organised opening ceremony for Science and Innovation Policy, Pakistan, 2012
 * March 2011 -- September 2012: Subeditor
   * UTrade (Pvt.) Ltd. Supervisor: Shaista Asif
-    * Subeditor for trade magazine _UTrade_
-    * Responsible for all magazine-related gamut, from writing assignments to final print
+    * Led a team of 16 writers, providing topic guidance and content development for company’s signature monthly trade magazine _UTrade_
+    * Wrote editorials and summaries for chief editor for 15 editions
+    * Finalized printing and distribution of magazine to readers all over Pakistan
+
 * December 2009 -- June 2010: Teaching Assistant
   * COMSATS Institute of Information Technology, Islamabad. Supervisor: Saadia Aziz
-    * TA for _Introduction to Programming_ (Language: C++) 
+    * Conducted lab coding sessions for _Introduction to Programming_ using C++ for 30 students, 4 times a week. 
 * April 2009 -- February 2012: Chief Editor
   * _Synergy_ (campus) magazine: COMSATS Institute of Information Technology 
     
