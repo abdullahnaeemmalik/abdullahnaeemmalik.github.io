@@ -18,7 +18,7 @@ Education
   * Advisor: Dr. Tyler Foster
   * CGPA: 3.63
 * M.Phil in Pure Mathematics, Quaid-e-Azam University, Islamabad, 2016
-  * Thesis title: Operator Algebras the Foundations of Quantum Mechnaics
+  * Thesis title: Operator Algebras the Foundations of Quantum Mechanics
   * Advisor: Dr. Tayyab Kamran
   * CGPA: 3.80
 * B.S. in Mathematics, COMSATS Institute of Information Technology, Islamabad, 2012
@@ -49,7 +49,7 @@ Work experience
     * Piloted the transition of 2 courses from face-to-face to hybrid for 16,500 students, that shaved off 3% of total expenses
     * Led a team of 15 Content Experts, 5 Instructional Designers, 3 Animation Creators, 2 Video Editors and 4 Web Developers, ensuring successful and smooth generation, processing, editing and deployment of academic content
     * Responsible for organizing and coordinating faculty development programs
-    * Identified gaps in student ICT literacy and provided appropriate recommendations for improvement
+    * Used hypothesis testing to identify gaps in student ICT literacy and provided appropriate recommendations for improvement
 * March 2013 -- August 2017: Research Associate
   * COMSATS Institute of Information Technology, Virtual Campus. Supervisor: Dr. Bilal Zaka
     * Moderated the following math courses:
@@ -61,7 +61,8 @@ Work experience
   * Pakistan Council for Science and Technology. Supervisor: Dr. Saima Nasir
     *   Chiefly appointed as subeditor for PCST’s journal _Science, Technology and Development_
     *   Verification of data in Directory of Productive Scientists of Pakistan 2012
-    *   Organised opening ceremony for Science and Innovation Policy, Pakistan, 2012
+    *   Organized opening ceremony for Science and Innovation Policy, Pakistan, 2012
+    *   Subsequently held position as honorary subeditor until August 2015
 * March 2011 -- September 2012: Subeditor
   * UTrade (Pvt.) Ltd. Supervisor: Shaista Asif
     * Led a team of 16 writers, providing topic guidance and content development for company’s signature monthly trade magazine _UTrade_
@@ -82,6 +83,9 @@ Skills
   *  Mathematica
   *  LaTeX
   *  C++
+  *  MATLAB
+  *  Maple
+  *  SQL
   
 Awards and Honors
 ======
