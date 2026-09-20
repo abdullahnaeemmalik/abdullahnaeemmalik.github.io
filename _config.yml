@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abdul's webpage"
+title                    : "Abdullah's webpage"
 title_separator          : "-"
 name                     : &name "Abdullah Malik"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Abdullah Malik"
   avatar           : "profile.png"
-  bio              : "Graph Data Scientist"
+  bio              : "Assistant Professor of Mathematics"
   location         : "Tallahassee, FL"
   employer         : "Florida State University"
   googlescholar    : "https://scholar.google.com.pk/citations?hl=en&user=ruU4p7QAAAAJ"
